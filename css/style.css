@@ -1,0 +1,28 @@
+body {
+    background-color: rgba(0, 98, 245, 0.418);
+}
+
+a {
+    color: rgb(190, 57, 243);
+}
+
+p {
+    color: rgb(34, 6, 80);
+}
+
+h2 {
+    color: rgb(6, 31, 100);
+}
+
+tr {
+    color: #031cff;
+}
+
+th {
+    font-size: x-large;
+    color: #38037c;
+}
+
+h1 {
+    color: rgb(8, 61, 236);
+}
